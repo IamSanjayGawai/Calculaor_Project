@@ -1,5 +1,5 @@
 # Calculaor_Project
-best moile calculator Using HTML CSS JAVASCRIPT
+calculator Using HTML CSS JAVASCRIPT
 
 
 Explain:
